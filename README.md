@@ -8,6 +8,6 @@ Download chrome driver
 configure it to path
 
 run python create.py
-  & All username are stored in Assets/usernames.txt
+All username are stored in Assets/usernames.txt
 
 Contact Me On Instagram : **Saeed__ztp**
