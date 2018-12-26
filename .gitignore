@@ -1,0 +1,5 @@
+modules/confirm_with_email.py
+env/*
+debug.log
+__pycache__
+.vscode
