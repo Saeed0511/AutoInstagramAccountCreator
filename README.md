@@ -3,7 +3,7 @@ Create a new virtualenv
 
  - Requirements : 
 
-run pip install -r requirements.txt
+> run pip install -r requirements.txt
 
 Download chrome driver
 configure it to path
@@ -12,7 +12,7 @@ configure it to path
 run python create.py
 
 
-**All Usernames saves in Assets/username.txt**
+**All Usernames saves in Assets/usernames.txt**
 
 
 Contact Me On Instagram : **Saeed__ztp**
