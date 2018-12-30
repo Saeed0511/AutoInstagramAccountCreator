@@ -39,7 +39,7 @@ class CreateAccount:
         revised_list = [m1.replace("<td>", "") for m1 in matches]
         for socket_str in revised_list:
             self.sockets.append(socket_str[:-5].replace("</td>", ":"))
-        print self.sockets
+        print (self.sockets)
 
     #account creation function
     def createaccount(self):
